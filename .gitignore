@@ -1,0 +1,6 @@
+# Ignoring all files (execs and debugger shit)
+*
+# But not source codes
+!*.cpp
+!*.c
+
