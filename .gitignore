@@ -4,3 +4,7 @@
 !*.cpp
 !*.c
 
+# Ignoring some source files
+bfs.cpp
+dfs.cpp
+hackathon_application.cpp
